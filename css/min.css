@@ -25,7 +25,7 @@ ul {
 }
 #home {
   background-color: #eeeeee;
-  height: 100vh;
+  min-height: 100vh;
 }
 #home .navbar {
   background-color: #fff;
